@@ -10,3 +10,5 @@ runtime/icon-theme/*
 
 plugins/*
 !plugins/.gitkeep
+*.DS_Store*
+
